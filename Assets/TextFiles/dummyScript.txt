@@ -1,0 +1,30 @@
+~Pear Scientist
+Hello, friend!
+As you remember, we scheduled this training drill in order to teach you how to use our latest weapon...
+THE PEAR CANNON!!
+...oh?
+You don't remember? Oh boy, how deep did you sleep last night hehe.
+You are here because you are the highest among our pear army ranks.
+It is you that our majesty, the Royal Pear, has chosen to use this canon in order to protect our kingdom from our enemies...
+...The Ladybugs!
+As you remember(or don't, apparently), the Ladybugs are our great enemy.
+They were seen marching in our kingdom to infiltrate our pear juice deposits and steal all of it!
+And we cannot let it happen, of course. This is where you come in, so let's get started.
+I've set up some dummy Ladybugs across you to help with your training.
+Firstly, try rotating the canon.
+rotate
+Noice moves!
+Now, let's move to the good stuff. You get to shoot things!
+So, take a look at the Ladybug props.
+enableLB
+These green bars you see on them is their endurance.
+With every shot you take at them, their endurance falls. When they run out of endurance they...
+..well, you know how it goes.
+So go ahead, pew pew!
+enableShoot
+Noice, looks like you got the hang of it!
+As you might have noticed, the ladybugs in the back took longer to defeat.
+In general, the farther they are the less damage they take. So keep that in mind for when you get to the battlefield.
+And of course, the real ones are going to be moving.
+Your job is to not let them get get past your line of defence. We need to protect our delicious pear juice.
+So, let's go to battle!
